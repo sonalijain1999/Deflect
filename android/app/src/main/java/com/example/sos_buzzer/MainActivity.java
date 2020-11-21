@@ -1,4 +1,4 @@
-package com.example.sos_buzzer;
+package com.example.deflect;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
